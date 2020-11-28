@@ -129,7 +129,7 @@
                                 <h3>
                                     <a href="mission-details.html">Build A Strong Country</a>
                                 </h3>
-                                <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry</p>
+                                <p>Private Karmchari Kalyan Association Uttar Pradesh</p>
                                 <a class="common-btn" href="mission-details.html">
                                     Read More
                                     <i class="icofont-long-arrow-right"></i>
@@ -145,7 +145,7 @@
                                 <h3>
                                     <a href="mission-details.html">Achieve Peacefulness</a>
                                 </h3>
-                                <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry</p>
+                                <p>Private Karmchari Kalyan Association Uttar Pradesh</p>
                                 <a class="common-btn" href="mission-details.html">
                                     Read More
                                     <i class="icofont-long-arrow-right"></i>
