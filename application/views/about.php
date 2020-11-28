@@ -102,7 +102,7 @@
                 <div class="section-title">
                     <span class="sub-title">Mission & Vision</span>
                     <h2>Our Mission & Vision</h2>
-                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Consectetur numquam magnam, sed perspiciatis mollitia nesciunt amet, consequuntur error culpa nobis dolore asperiores eum non quasi</p>
+                    <p>Private Karmchari Kalyan Association Uttar Pradesh</p>
                 </div>
                 <div class="row">
 
@@ -113,7 +113,7 @@
                                 <h3>
                                     <a href="mission-details.html">Give People The Top Priority</a>
                                 </h3>
-                                <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry</p>
+                                <p>Private Karmchari Kalyan Association Uttar Pradesh</p>
                                 <a class="common-btn" href="mission-details.html">
                                     Read More
                                     <i class="icofont-long-arrow-right"></i>
